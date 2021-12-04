@@ -1,5 +1,5 @@
 # MSCIT-Machine-Learning-Project
-Author: Ruxin Qiu, Daci Ma, Fangxu Yuang, Lishan Huang
+Author: Ruxin Qiu, Daci Ma, Fangxu Yuan, Lishan Huang
 
 
 Component: 
